@@ -2,7 +2,7 @@
 //  PinchApp.swift
 //  Pinch
 //
-//  Created by Ozan Bağıran on 2/15/24.
+//  Created by Ozan Bağıran
 //
 
 import SwiftUI
